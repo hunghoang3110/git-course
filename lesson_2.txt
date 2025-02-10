@@ -4,6 +4,6 @@
  - git add .: thêm tất cả các file vào vùng Staging
  - git commit -m "message": tạo 1 commit mới có ghi chú là "message"
 2.
- - Vùng Working directory: file1, file2, file3
- - Vùng Staging: file1
+ - Vùng Working directory: file2, file3
+ - Vùng Staging: empty
  - Vùng Repository: file1
