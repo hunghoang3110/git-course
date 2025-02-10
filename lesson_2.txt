@@ -1,0 +1,9 @@
+1. Giải thích các câu lệnh:
+ - git init: khởi tạo git cho thư mục
+ - git add <file_name>: thêm file <file_name> vào vùng Staging
+ - git add .: thêm tất cả các file vào vùng Staging
+ - git commit -m "message": tạo 1 commit mới có ghi chú là "message"
+2.
+ - Vùng Working directory: file1, file2, file3
+ - Vùng Staging: file1
+ - Vùng Repository: file1
