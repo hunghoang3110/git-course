@@ -1,0 +1,17 @@
+1.
+ - git commit --amend: sử dụng VIM để chỉnh sửa thông tin của commit mới nhất.
+ - git commit --amend -m”<message>”: chỉnh sửa nội dung message của commit mới nhất.
+ - git restore --staged <file>: chuyển file từ vùng Staging về vùng Working directory.
+ - git reset HEAD~1: xóa commit mới nhất và chuyển file từ vùng repository về vùng Working directory.
+2.
+Liệt kê file:
+ - Vùng Working directory: file3
+ - Vùng Staging: file2
+ - Vùng Repository: file1
+Liệt kê commit:
+ - C1: add file
+3.
+Liệt kê file:
+ - Vùng Working directory: trống
+ - Vùng Staging: file2.txt
+ - Vùng Repository: trống
